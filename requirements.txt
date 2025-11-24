@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-groq
+groq
+chromadb
+pypdf
+streamlit
+tavily-python
+python-dotenv
+numpy
