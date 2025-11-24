@@ -5,7 +5,7 @@ The system takes your input, passes it through multiple agents (Planner, Researc
 
 
 ## 🖥️ UI Screenshot
-![App Screenshot](assets/Screenshot%205.pngScreenshot5.png)
+![App Screenshot](assets/screenshot.png)
 
 
 
