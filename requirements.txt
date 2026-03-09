@@ -8,3 +8,8 @@ streamlit
 tavily-python
 python-dotenv
 numpy
+agno
+openai
+ddgs
+anthropic
+yfinance
